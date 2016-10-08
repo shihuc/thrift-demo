@@ -1,1 +1,1 @@
-# thrift-demo
+# thrift-demo, based on thrift tutorial
